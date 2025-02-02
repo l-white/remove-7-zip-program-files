@@ -1,1 +1,1 @@
-# remove-7-zip-program-files
+# Remove 7-Zip Program Files
